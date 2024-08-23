@@ -35,7 +35,6 @@ I'm a passionate cloud enthusiast with knowledge of various cloud tools like Kub
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
-  ![Docker Animation](https://media.giphy.com/media/26Ff3drzDLH3zG7tq/giphy.gif)
 
 </p>
 

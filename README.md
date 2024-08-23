@@ -1,6 +1,6 @@
 # Hi there, I'm Debabrata Behera 👋
 
-I'm a passionate MERN Stack Developer from India 🌍.
+I'm a passionate cloud enthusiast 🌍.
 
 ## 🚀 Technologies I love to work with:
 - React.js

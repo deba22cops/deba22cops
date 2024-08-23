@@ -1,8 +1,3 @@
- Hi there, I'm Debabrata Behera 👋
-
-I'm a passionate cloud enthusiast with knowledge of various cloud tools like Kubernetes, AWS, Docker, and more. 🌍
-
-## 🚀 Technologies I love to work with:
 
 # Hi there, I'm Debabrata Behera 👋
 

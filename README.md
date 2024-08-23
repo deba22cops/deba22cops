@@ -9,7 +9,7 @@ I'm a passionate MERN Stack Developer from India 🌍.
 - Express.js
 
 ## 🔥 GitHub Stats:
-![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=deba22cops&show_icons=true&theme=radical)
 
 ## 💼 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/deba06/)

@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Debabrata Behera 👋
 
-<!--
-**deba22cops/deba22cops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN Stack Developer from India 🌍.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I love to work with:
+- React.js
+- Node.js
+- MongoDB
+- Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Stats:
+![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 💼 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/deba06/)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:debabrata22behera@gmail.com)
+
+

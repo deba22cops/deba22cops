@@ -37,6 +37,7 @@ I'm a passionate cloud enthusiast with knowledge of various cloud tools like Kub
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
 
 </p>
+#![Activity Graph](https://activity-graph.herokuapp.com/graph?username=deba22cops&theme=github)
 
 
 ## 🔥 GitHub Stats:
